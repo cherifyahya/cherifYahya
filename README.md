@@ -64,11 +64,18 @@
 
 <br/>
 
+### ⚙️ &nbsp; GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/cherifyahya">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cherifyahya&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cherifyahya&layout=compact&exclude_lang=java+r&theme=vue-light" />
+</a>
+</p>
 
 <div align="center">
 
 <br/>
-
 ---
 
 Credits: [cherifyahya](https://github.com/cherifyahya)
